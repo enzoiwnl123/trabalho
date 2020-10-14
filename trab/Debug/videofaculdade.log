@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Home\source\repos\videofaculdade\main.cpp(32,20): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'std::string *'
+C:\Users\Home\source\repos\videofaculdade\main.cpp(35,20): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'std::string *'
+C:\Users\Home\source\repos\videofaculdade\main.cpp(58,38): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\Home\source\repos\videofaculdade\main.cpp(58,38): message : espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+C:\Users\Home\source\repos\videofaculdade\main.cpp(124,20): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'std::string *'
+C:\Users\Home\source\repos\videofaculdade\main.cpp(127,20): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'std::string *'
+C:\Users\Home\source\repos\videofaculdade\main.cpp(164,38): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\Home\source\repos\videofaculdade\main.cpp(164,38): message : espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+C:\Users\Home\source\repos\videofaculdade\main.cpp(188,20): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'std::string *'
+C:\Users\Home\source\repos\videofaculdade\main.cpp(191,20): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'std::string *'
+  videofaculdade.vcxproj -> C:\Users\Home\source\repos\videofaculdade\Debug\videofaculdade.exe

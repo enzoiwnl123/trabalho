@@ -1,0 +1,4 @@
+1 / serie / la casa de papel  / joao da silva / 00:00 / 5 / 2020 / drama- CADASTRADO PELO USUARIO 1
+2 / filme / teste remover / teste / 00:00 / 0 / 2030 / drama- CADASTRADO PELO USUARIO 10
+3 / serie / teste editar / teste / 00:10 / 10 / 2035 / drama- CADASTRADO PELO USUARIO 10
+4 / serie / alterado / alterei / 00:00 / 5 / 2020 / comedia- CADASTRADO PELO USUARIO 1
